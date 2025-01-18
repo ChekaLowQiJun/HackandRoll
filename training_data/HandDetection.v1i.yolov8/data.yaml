@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Hand']
+
+roboflow:
+  workspace: cheka-low-yel2d
+  project: handdetection-ctsxm
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cheka-low-yel2d/handdetection-ctsxm/dataset/1
