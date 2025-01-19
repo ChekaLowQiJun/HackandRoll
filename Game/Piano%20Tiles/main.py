@@ -1,4 +1,4 @@
-#Credit to pyGuru123 for creating the template for the game and most of the inspiration
+#Credit to pyGuru123 for creating the template for the game 
 #Controller for playing the game using webcam done by Cheka 
 
 #Importing relevant libraries
